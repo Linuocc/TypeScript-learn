@@ -1,0 +1,2 @@
+const teacher = "linuocc";
+console.log(teacher);
